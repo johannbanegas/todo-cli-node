@@ -80,3 +80,4 @@ console.log(a === b);
 console.log(c && a > 10);
 console.log(!c);
 console.log(a % 5);
+let gordo = "Gordo";
